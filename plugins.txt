@@ -1,0 +1,6 @@
+start
+(
+when rat =2, multi
+when rat =2, single
+)
+closed
